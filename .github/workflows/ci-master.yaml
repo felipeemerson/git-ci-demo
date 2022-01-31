@@ -1,4 +1,4 @@
-name: Backend - master
+name: Backend - others
 
 on:
   pull_request:
@@ -9,7 +9,7 @@ on:
       - 'master'
 
 jobs:
-  build:
+  build-master:
     runs-on: ubuntu-latest
 
     steps:

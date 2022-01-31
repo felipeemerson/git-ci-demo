@@ -1,6 +1,9 @@
 name: Backend - others
 
-on: [push]
+on:
+  push:
+    branches-ignore:
+      - 'master'
 
 jobs:
   build:
