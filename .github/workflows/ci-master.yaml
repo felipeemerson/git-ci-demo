@@ -1,5 +1,4 @@
-name: Backend - others
-
+name: Backend - master
 on:
   pull_request:
     branches:
