@@ -23,4 +23,9 @@ class GitCiDemoApplicationTests {
         assertTrue(true);
     }
 
+    @Test
+    void test4() {
+        assertTrue(true);
+    }
+
 }
