@@ -20,12 +20,12 @@ class GitCiDemoApplicationTests {
 
     @Test
     void test3() {
-        assertTrue(false);
+        assertTrue(true);
     }
 
     @Test
     void test4() {
-        assertTrue(false);
+        assertTrue(true);
     }
 
 }
